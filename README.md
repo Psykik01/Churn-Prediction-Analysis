@@ -31,8 +31,8 @@ This project predicts customer churn for a telecom company using a Random Forest
 
 | Chart | Description |
 |-------|-------------|
-| ![Pie](images/churn_pie.png) | Churn vs. Non-Churn Distribution |
-| ![Bar](images/churn_contract_bar.png) | Churn by Contract Type |
+| ![Churn Pie Chart](Churn_pie.png) | Churn vs. Non-Churn Distribution |
+| ![Churn Bar Chart](Churn_contract_bar.png) | Churn by Contract Type |
 
 ---
 
